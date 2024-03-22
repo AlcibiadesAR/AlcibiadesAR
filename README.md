@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alcibiades Acosta</h1>
+<img src="https://media.licdn.com/dms/image/D4E16AQGerZGjF6zANg/profile-displaybackgroundimage-shrink_350_1400/0/1711133895783?e=1716422400&v=beta&t=2RZGoKcph2PeVJe_Vds_P1He3CBIayg4qXxcy9GUu84" alt="banner">
 <h3 align="center">Learning to code is not just about mastering a skill, it's about embracing a journey of perpetual growth.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alcibiadesar" alt="alcibiadesar" /></a> </p>
