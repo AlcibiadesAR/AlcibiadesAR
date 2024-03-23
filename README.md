@@ -4,6 +4,7 @@
 
 # 💫 About Me:
 Hello! 👋 I'm Alcibiades Acosta, a web layout designer from Panama, passionate about fullstack development and eager to learn and engage in exciting projects. I love turning ideas into exceptional digital experiences and I'm here on GitHub to connect with creative teams and collaborate in building the digital future. Let's create something extraordinary together! 💻✨
+
 <br>- 🌱 I’m currently learning **full-stack development**<br><br>- 💬 Ask me about **HTML, CSS, JavaScript, and React!**<br><br>- 📫 How to reach me **alcibiades.acosta.r@gmail.com**
 
 ## 🌐 Socials:
