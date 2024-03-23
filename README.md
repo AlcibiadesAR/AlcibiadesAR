@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B2B8FF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alcibiades+Acosta" alt="Typing SVG" /></a>
 <img src="https://media.licdn.com/dms/image/D4E16AQGerZGjF6zANg/profile-displaybackgroundimage-shrink_350_1400/0/1711133895783?e=1716422400&v=beta&t=2RZGoKcph2PeVJe_Vds_P1He3CBIayg4qXxcy9GUu84" alt="banner">
 
-<h3 align="start" color="blue">"Learning to code is not just about mastering a skill, it's about embracing a journey of perpetual growth."</h3>
+<h3 align="start">"Learning to code is not just about mastering a skill, it's about embracing a journey of perpetual growth."</h3>
 
 # 💫 About Me:
 Hello! 👋 I'm Alcibiades Acosta, a web layout designer from Panama, passionate about fullstack development and eager to learn and engage in exciting projects. I love turning ideas into exceptional digital experiences and I'm here on GitHub to connect with creative teams and collaborate in building the digital future. Let's create something extraordinary together! 💻✨
