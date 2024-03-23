@@ -2,25 +2,23 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQGerZGjF6zANg/profile-displaybackgroundimage-shrink_350_1400/0/1711133895783?e=1716422400&v=beta&t=2RZGoKcph2PeVJe_Vds_P1He3CBIayg4qXxcy9GUu84" alt="banner">
 <h3 align="center">Learning to code is not just about mastering a skill, it's about embracing a journey of perpetual growth.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alcibiadesar" alt="alcibiadesar" /></a> </p>
+# 💫 About Me:
+<br>- 🌱 I’m currently learning **full-stack development**<br><br>- 💬 Ask me about **HTML, CSS, JavaScript, and React!**<br><br>- 📫 How to reach me **alcibiades.acosta.r@gmail.com**
 
-- 🌱 I’m currently learning **full-stack development**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aa_r2130) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alcibiadesar) 
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and React!**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlcibiadesAR&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlcibiadesAR&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlcibiadesAR&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **alcibiades.acosta.r@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AlcibiadesAR&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alcibiadesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alcibiadesar" height="30" width="40" /></a>
-<a href="https://instagram.com/aa_r2130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aa_r2130" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AlcibiadesAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alcibiadesar&show_icons=true&locale=en&layout=compact" alt="alcibiadesar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alcibiadesar&show_icons=true&locale=en" alt="alcibiadesar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alcibiadesar&" alt="alcibiadesar" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
