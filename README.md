@@ -4,7 +4,7 @@
 <h3 align="start">"Learning to code is not just about mastering a skill, it's about embracing a journey of perpetual growth."</h3>
 
 # 💫 About Me:
-Hello! 👋 I'm Alcibiades Acosta, a web layout designer from Panama, passionate about fullstack development and eager to learn and engage in exciting projects. I love turning ideas into exceptional digital experiences and I'm here on GitHub to connect with creative teams and collaborate in building the digital future. Let's create something extraordinary together! 💻✨
+Hello! 👋 I am Alcibiades Acosta, a web layout from Panama, with the passion of becoming a fullstack developer and eager to learn and participate in exciting projects. I love turning ideas into exceptional digital experiences, and I'm here on GitHub to connect with creative teams and collaborate on building the digital future. Let's create something extraordinary together! 💻✨
 
 <br>- 🌱 I’m currently learning **full-stack development**<br><br>- 💬 Ask me about **HTML, CSS, JavaScript, and React!**<br><br>- 📫 How to reach me **alcibiades.acosta.r@gmail.com**
 
