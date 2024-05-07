@@ -8,8 +8,8 @@ Hello! 👋 I am Alcibiades Acosta, a web layout from Panama, with the passion o
 
 <br>- 🌱 I’m currently learning **full-stack development**<br><br>- 💬 Ask me about **HTML, CSS, JavaScript, and React!**<br><br>- 📫 How to reach me **alcibiades.acosta.r@gmail.com**
 
-## <b> Socials:</b><img src="https://cdn.dribbble.com/users/955853/screenshots/3919463/dribble_hanshake.gif" width="80">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aa_r2130) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alcibiadesar) 
+## <b> Socials:</b> <img src="Assets/img/hanshake.gif" width="80">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/aa_r2130) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alcibiadesar)
 
 ## 💻 Tech Stack 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white)
