@@ -8,7 +8,7 @@ Hello! 👋 I am Alcibiades Acosta, a web layout from Panama, with the passion o
 
 <br>- 🌱 I’m currently learning **full-stack development**<br><br>- 💬 Ask me about **HTML, CSS, JavaScript, and React!**<br><br>- 📫 How to reach me **alcibiades.acosta.r@gmail.com**
 
-# <b> Socials: </b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> Socials:</b><img src="./assets/mdImages/handshake.gif" width ="80">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aa_r2130) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alcibiadesar) 
 
 ## 💻 Tech Stack 
