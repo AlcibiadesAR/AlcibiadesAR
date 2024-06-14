@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B2B8FF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alcibiades+Acosta" alt="Typing SVG" /></a>
-<img src="/AlcibiadesAR/Assets/img/banner.png" alt="banner">
+<img src="https://raw.githubusercontent.com/AlcibiadesAR/Repositorio/main/Assets/img/banner.png" alt="banner">
 
 <h3 align="start">"Learning to code is not just about mastering a skill, it's about embracing a journey of perpetual growth."</h3>
 
