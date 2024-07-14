@@ -20,6 +20,7 @@ Hello! 👋 I am Alcibiades Acosta, a web layout from Panama, with the passion o
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=flat) 
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-%2308A0E9.svg?style=flat)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlcibiadesAR&show_icons=true&theme=highcontrast)<br/>
