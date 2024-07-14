@@ -17,7 +17,7 @@ Hello! 👋 I am Alcibiades Acosta, a web layout from Panama, with the passion o
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlcibiadesAR&show_icons=true&theme=highcontrast)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlcibiadesAR&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlcibiadesAR&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlcibiadesAR&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AlcibiadesAR&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
