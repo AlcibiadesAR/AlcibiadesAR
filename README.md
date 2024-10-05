@@ -19,6 +19,7 @@ Hello! 👋 I am Alcibiades Acosta, a web layout from Panama, with the passion o
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlcibiadesAR&show_icons=true&theme=highcontrast)<br/>
