@@ -20,6 +20,14 @@ Hello! 👋 I am Alcibiades Acosta, a web layout from Panama, with the passion o
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=Figma&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%234A8D9D.svg?style=flat&logo=vite&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404D59.svg?style=flat&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2A0.svg?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23752A91.svg?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C4CC.svg?style=flat&logo=netlify&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%234B4B4B.svg?style=flat&logo=sequelize&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlcibiadesAR&show_icons=true&theme=highcontrast)<br/>
